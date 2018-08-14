@@ -1,5 +1,7 @@
-# swift-journey04
+# swift-journey04 - Developer Quiz
 The fourth project of my Swift Journey - Step by Step
+
+Who wants to be a developer? Build a quiz to help you learn!
 
 ![alt text](https://github.com/lkameya/swift-journey04/blob/master/swift-journey04.gif)
 
